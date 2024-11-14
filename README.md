@@ -60,7 +60,7 @@ El club se ejecutará durante 30 semanas, con un total de 25 sesiones, comenzand
 
 ### 4.1. Planificación del Club de Programación
 
-* [Sesión 1 - 14/11/2024:](./clupprog_2425/tree/main/s01-20241114)
+* [Sesión 1 - 14/11/2024:](./s01-20241114)
 
   * Fundamentos de Programación: Variables, tipos de datos, condicionales básicos, Bucles (for, while, do-while).
   * Algorítmica: Introducción a algoritmos de ordenación (Bubble Sort).
