@@ -69,7 +69,7 @@ El club se ejecutará durante 30 semanas, con un total de 25 sesiones, comenzand
       * David Romero
     * Tarde: 16:00 - 19:00
       * Javier Ortega
-* Sesión 2 - 21/11/2024:
+* [Sesión 2 - 21/11/2024:](./s02-20241121)
 
   * Fundamentos de Programación: Arrays y vectores.
   * Algorítmica: Algoritmos de ordenación (Selection Sort, Insertion Sort)
@@ -78,7 +78,7 @@ El club se ejecutará durante 30 semanas, con un total de 25 sesiones, comenzand
       * David Romero
     * Tarde: 16:00 - 19:00
       * Javier Ortega
-* Sesión 3 - 28/11/2024 (Recopilación y Refuerzo):
+* [Sesión 3 - 28/11/2024 (Recopilación y Refuerzo):](./s03-20241128)
 
   * Repaso de tipos de datos, condicionales, bucles, arrays y vectores y algoritmos de ordenación básicos.
   * Profesores:
