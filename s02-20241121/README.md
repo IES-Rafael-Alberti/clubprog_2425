@@ -62,7 +62,7 @@ Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusió
    * Selección del elemento mínimo y su colocación en la posición correcta.
    * Visualización paso a paso de cómo se intercambian elementos en una lista para ordenarla.
 
-1. Insertion Sort:
+3. Insertion Sort:
    * Explicación de Insertion Sort:
       * Colocación de cada elemento en su posición correcta en la parte ordenada de la lista.
       * Comparación con Selection Sort en cuanto a su eficiencia y sus aplicaciones prácticas.
