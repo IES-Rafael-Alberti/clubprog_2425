@@ -108,3 +108,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Especificos de la salida
+data/salida*
