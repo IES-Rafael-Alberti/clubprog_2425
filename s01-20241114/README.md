@@ -53,6 +53,46 @@ Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusió
 
 ---
 
+#### Ejercicios sugeridos:
+**Ejercicios variables:**
+
+- Artrópodos: https://aceptaelreto.com/problem/statement.php?id=293  
+- Cuadrados con cerillas: https://aceptaelreto.com/problem/statement.php?id=340  
+- La fiesta aburrida: https://aceptaelreto.com/problem/statement.php?id=117  
+- Los problemas de ser rico: https://aceptaelreto.com/problem/statement.php?id=191  
+- Goteras: https://aceptaelreto.com/problem/statement.php?id=216  
+- Semanas: https://aceptaelreto.com/problem/statement.php?id=274  
+- Pesando carretas: https://aceptaelreto.com/problem/statement.php?id=332  
+- Encuesta comprometedora: https://aceptaelreto.com/problem/statement.php?id=583
+  
+
+**Ejercicios condicionales:**
+
+- ¿Qué lado de la calle?: https://aceptaelreto.com/problem/statement.php?id=217  
+- Fin de mes: https://aceptaelreto.com/problem/statement.php?id=313  
+- Gregorio XIII: https://aceptaelreto.com/problem/statement.php?id=355  
+- Yo soy tu...: https://aceptaelreto.com/problem/statement.php?id=427  
+- Triángulos: https://aceptaelreto.com/problem/statement.php?id=180  
+- División euclídea: https://aceptaelreto.com/problem/statement.php?id=304  
+- Último dígito del factorial: https://aceptaelreto.com/problem/statement.php?id=114  
+- Me quiere, no me quiere: https://aceptaelreto.com/problem/statement.php?id=241  
+- ¿Es múltiplo de 3?: https://aceptaelreto.com/problem/statement.php?id=397  
+
+
+**Ejercicios bucles:**
+
+- Contando en la arena: https://aceptaelreto.com/problem/statement.php?id=369&cat=6
+- Los saltos de Mario: https://aceptaelreto.com/problem/statement.php?id=158&cat=6   
+- Timo en el cocedero de mariscos: https://aceptaelreto.com/problem/statement.php?id=359&cat=6
+- Número hyperpar: https://aceptaelreto.com/problem/statement.php?id=165&cat=6
+- Triángulos con piedras: https://aceptaelreto.com/problem/statement.php?id=170&cat=6 
+- Escudos del ejército romano: https://aceptaelreto.com/problem/statement.php?id=119&cat=6
+- Números de Lychrel: https://aceptaelreto.com/problem/statement.php?id=205&cat=6
+- Dividir factoriales: https://aceptaelreto.com/problem/statement.php?id=190&cat=6
+- Entrando al cine: https://aceptaelreto.com/problem/statement.php?id=221&cat=6
+
+---
+
 ### 2. Parte: Algorítmica - Introducción a algoritmos de ordenación
 
 Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusión)
@@ -72,6 +112,7 @@ Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusió
 #### 2.2. Práctica (40 min)
 
 * Ejercicio de Bubble Sort (20 min)
+    * [Algoritmo burbuja](https://algorithm-visualizer.org/brute-force/bubble-sort)
     * Implementar Bubble Sort para ordenar un array de números enteros.
     * Hacer un seguimiento de la cantidad de intercambios realizados en cada iteración para entender mejor el proceso.
 
@@ -99,3 +140,8 @@ Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusió
 * Tareas opcionales
     * Implementar un algoritmo de ordenación diferente y comparar sus resultados con Bubble Sort.
     * Practicar con problemas de ordenación en plataformas como LeetCode o HackerRank.
+
+
+### 4. Recursos
+- [JetBrains Toolbox App](https://www.jetbrains.com/es-es/toolbox-app/)
+- [Visual Studio Code](https://code.visualstudio.com/)
