@@ -20,6 +20,45 @@ Java es un lenguaje de programación de alto nivel, orientado a objetos y diseñ
 
 Java se utiliza en una amplia variedad de aplicaciones, tales como el desarrollo de videojuegos, computación en la nube, Big Data, Inteligencia Artificial e IoT.
 
+### Java y su relación con la POO
+Java es un lenguaje orientado a objetos (POO), lo que significa que está diseñado para organizar programas alrededor de objetos, que son representaciones de cosas del mundo real o conceptos. Estos objetos tienen características (atributos) y pueden realizar acciones (métodos).
+
+Por ejemplo, piensa en un coche:
+
+Sus características podrían ser su color, marca o velocidad.
+Sus acciones podrían ser acelerar, frenar o girar.
+En Java, primero se define un "modelo general" de un coche (esto se llama clase), y luego se crean coches específicos (esto se llaman objetos o instancias).
+
+**Ejemplo de código**
+
+Si tenemos la siguiente clase:
+
+```
+public class Coche {
+    String marca;    // Atributo
+    String modelo;   // Atributo
+    int velocidad;   // Atributo
+    
+    public void acelerar() {   // Método
+        velocidad += 10;
+    }
+}
+```
+La clase Coche es una plantilla que define que todos los coches tienen una marca, un modelo y una velocidad, además de la capacidad de acelerar.
+
+Cuando creamos un objeto (instancia) de esa clase:
+
+```
+Coche miCoche = new Coche(); // Creamos un objeto de tipo Coche
+miCoche.marca = "Toyota";    // Asignamos una marca concreta
+miCoche.modelo = "Corolla";  // Asignamos un modelo concreto
+miCoche.velocidad = 0;       // Velocidad inicial
+miCoche.acelerar();          // El coche acelera
+```
+Ahora el objeto miCoche es concreto: es un Toyota Corolla con una velocidad específica. Este objeto fue construido siguiendo la "plantilla" definida por la clase Coche. 
+
+En Java, siempre trabajas creando clases y objetos. La idea es que el programa esté compuesto por varios objetos que colaboran entre sí, como piezas de un rompecabezas. Este enfoque hace que el código sea más lógico y más fácil de modificar, ya que puedes cambiar una pieza sin afectar el resto.
+
 ### Funcionamiento de Java
 
 Java sigue la filosofía "write once, run anywhere" (WORA). El código fuente (.java) se compila a bytecode (.class), que luego se ejecuta en la Máquina Virtual de Java (JVM). Esto permite que el mismo código se ejecute en cualquier plataforma que tenga una JVM instalada.
