@@ -298,6 +298,8 @@ El club se ejecutará durante 30 semanas, con un total de 25 sesiones, comenzand
       * Pendiente
 
 ## Recursos
+### Meet
+- [Meet](https://meet.google.com/tyr-dsug-axu)
 
 ### URLs
 
@@ -313,6 +315,7 @@ El club se ejecutará durante 30 semanas, con un total de 25 sesiones, comenzand
    * [Events - Advent of Code 2024](https://adventofcode.com/2024/events)
 * [ProgramaMe](https://programame.com/2025/reg/)
    * [Histórico de Problemas - ProgramaMe](https://programame.com/archive.php)
+
 
 ### Páginas de aprendizaje/entrenamiento
 

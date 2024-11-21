@@ -141,7 +141,12 @@ Duración: 20 min (Teoría), 40 min (Práctica), 30 min (Resolución y Discusió
     * Implementar un algoritmo de ordenación diferente y comparar sus resultados con Bubble Sort.
     * Practicar con problemas de ordenación en plataformas como LeetCode o HackerRank.
 
+### 4. Conferencias
+- [Meet](https://meet.google.com/tyr-dsug-axu)
 
-### 4. Recursos
+### 5. Recursos
 - [JetBrains Toolbox App](https://www.jetbrains.com/es-es/toolbox-app/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Acepta el retos](https://aceptaelreto.com/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/brute-force/bubble-sort)
+- 
