@@ -6,12 +6,12 @@ import java.util.*;
 /**
  * Clase abstracta para resolver problemas de procesamiento basados en lectura y escritura de archivos.
  * Proporciona métodos genéricos para lectura, escritura y ejecución.
- *
+ * <p>
  * IMPORTANTE: Esta clase no debe ser modificada.
  * Las subclases deben implementar el método process() para resolver problemas específicos.
- *
+ * <p>
  * Aunque se ha implementado esta clase, la pagina AceptaElReto nos da varios esqueletos de código para resolver problemas:
- * https://aceptaelreto.com/doc/templates.php   (Java)
+ * <a href="https://aceptaelreto.com/doc/templates.php">plantillas de acepta el reto</a>   (Java)
  *
  */
 public abstract class ProblemSolver {
