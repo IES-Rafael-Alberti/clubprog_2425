@@ -3,8 +3,6 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
-import javafx.scene.paint.Color;
-
 import java.util.Arrays;
 import java.util.Random;
 import java.awt.Graphics2D;
@@ -12,22 +10,12 @@ import java.awt.Graphics2D;
 public class Sort {
 
     public static void main(String[] args) {
-        // Generar arrays aleatorios de tamaños 10, 100, 1000 y 10000
+        // Generar arrays aleatorios de tamaños variados
         int[] sizes = {
             10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000,
             20000, 50000, 100000, 200000, 500000, 1000000, 2000000,
-            5000000, 10000000, 20000000, 50000000, 100000000
+            5000000, 10000000
         };
-        for (int size : sizes) {
-            int[] arr = generarArrayAleatorio(size);
-            long tiempoInicio = System.nanoTime();
-            //Ordenar el array
-            //TODO
-            ordenar(arr);
-            
-            long tiempoFin = System.nanoTime();
-            System.out.println("Tamaño: " + size + ", Tiempo: " + (tiempoFin - tiempoInicio) / 1e9);
-        }
 
         // Crear gráfica y guardar como imagen
         double[] tiempos = new double[sizes.length];
@@ -36,8 +24,10 @@ public class Sort {
             int size = sizes[i];
             int[] arr = generarArrayAleatorio(size);
             long tiempoInicio = System.nanoTime();
-            mergeSort(arr);
+            //TODO
+            ordenar(arr);
             long tiempoFin = System.nanoTime();
+            System.out.println("Tamaño: " + size + ", Tiempo: " + (tiempoFin - tiempoInicio) / 1e9);
             tiempos[i] = (tiempoFin - tiempoInicio) / 1e9;
             sizesArray[i] = size;
         }
