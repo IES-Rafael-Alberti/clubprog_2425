@@ -1,4 +1,4 @@
-# Resolución del problrma de rotación de matrices
+# Resolución del problema de rotación de matrices
 
 Partiendo de una matrix 2D de dimensiones mxn y un número entero positivo r, debemos rotar la matriz r veces para conseguir la matriz resultado.
 
