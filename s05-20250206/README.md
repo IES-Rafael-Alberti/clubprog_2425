@@ -1,14 +1,14 @@
 # Resolución del problrma de rotación de matrices
 
-You are given a 2D matrix of dimension mxn and a positive integer r. You have to rotate the matrix r times and print the resultant matrix. Rotation should be in anti-clockwise direction.
+Partiendo de una matrix 2D de dimensiones mxn y un número entero positivo r, debemos rotar la matriz r veces para conseguir la matriz resultado.
 
-Note that in one rotation, you have to shift elements by one step only.
+La rotación debe ser en sentido antihorario. En una rotación, cada elemento tiene que desplazarse un solo paso.
 
-It is guaranteed that the minimum of m and n will be even.
+Se garantiza que el mínimo de m y n es un número par.
 
-As an example rotate the Start matrix by 2:
+Ejemplo de rotación de una matriz 4x4, 2 veces:
 
-    Start         First           Second
+    Matriz        Primera         Segunda
      1 2 3 4       2  3  4  5      3  4  5  6
     12 1 2 5  ->   1  2  3  6 ->   2  3  4  7
     11 4 3 6      12  1  4  7      1  2  1  8
